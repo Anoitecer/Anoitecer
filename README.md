@@ -21,9 +21,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 )
 
-<div >
-<img align="right" alt="garota-fofa-de-anime" src="https://i.pinimg.com/736x/4d/44/ab/4d44abf0542f018c94229dc101bf2ad7.jpg">
-</div>
-
-
 So estudando por hobbie mesmo 
