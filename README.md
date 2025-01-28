@@ -20,5 +20,6 @@
 )
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 )
+![Image](https://github.com/user-attachments/assets/97d8c585-1a1b-4c2b-9630-d325489e6019)
 
 So estudando por hobbie mesmo 
