@@ -6,8 +6,6 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/profiles/76561198992786774/)
 
-![Anoitecer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoitecer&show_icons=true&theme=dracula)
-
 ### Estudando
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
