@@ -2,9 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=9222F7&width=435&lines=%C2%B0+Bem+Vindo+Ao+meu+Perfil+(%E2%94%80%E2%80%BF%E2%80%BF%E2%94%80)+%C2%B0" alt="Typing SVG" /></a>
 
 
-<div align="left">
+<!-- <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Meu+nome+%C3%A9+Anoitecer" alt="Typing SVG" /></a>
-
+ -->
 ###
 
 <div align="left">
