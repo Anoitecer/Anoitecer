@@ -8,7 +8,10 @@
 ###
 
 <!-- Imagem numero um -->
-<img align="right" height="150" src="https://github.com/user-attachments/assets/1722e66f-2b08-4c55-8b85-abdc86ded775"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/c2cd6fe1-ed52-4c3a-add1-66b2da0c3359"  />
+
+
+<!-- Gatinho Fofinho <img align="right" height="150" src="https://github.com/user-attachments/assets/1722e66f-2b08-4c55-8b85-abdc86ded775"  /> -->
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anoitecer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
