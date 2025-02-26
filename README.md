@@ -8,7 +8,7 @@
 ###
 
 <!-- Imagem numero um -->
-<img align="right" height="150" src="https://github.com/user-attachments/assets/c2cd6fe1-ed52-4c3a-add1-66b2da0c3359"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/7e471d62-e92b-4ae3-9785-52ae06494996"  />
 
 
 <!-- Gatinho Fofinho <img align="right" height="150" src="https://github.com/user-attachments/assets/1722e66f-2b08-4c55-8b85-abdc86ded775"  /> -->
