@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9529F7&width=435&lines=%E2%9C%A7%E2%82%8A%E2%81%BA+Bem-Vindo+ao+meu+Perfil++(%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6)+%E2%9C%A7%E2%82%8A%E2%81%BA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4960&pause=1000&color=6C1DF7&width=435&lines=%F0%9D%90%81%F0%9D%90%9E%F0%9D%90%A6-%F0%9D%90%95%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A8+%F0%9D%90%80%F0%9D%90%A8+%F0%9D%90%8C%F0%9D%90%9E%F0%9D%90%AE+%F0%9D%90%8F%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A5+%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF+%CB%89%CD%88%CC%80%EA%92%B3%CB%89%CD%88%CC%81+)%E2%9C%A7" alt="Typing SVG" /></a>
 
 <!-- <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Meu+nome+%C3%A9+Anoitecer" alt="Typing SVG" /></a>
